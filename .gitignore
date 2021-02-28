@@ -1,0 +1,8 @@
+/GrpcDemo/GrpcServer/obj
+/GrpcDemo/GrpcServer/bin
+/GrpcDemo/GrpcClient/obj
+/GrpcDemo/GrpcClient/bin
+/GrpcNode/node_modules
+/GrpcPythonClientDemo/venv
+/GrpcPythonClientDemo/__pycache__
+/GrpcPythonClientDemo/.idea
